@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0
+## 1.0.1
 
 Initial release of the AREX CLI: search, read, and research the web from your terminal.
 

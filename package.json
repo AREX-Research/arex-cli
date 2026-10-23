@@ -1,6 +1,6 @@
 {
   "name": "@arex-research/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command-line interface and Agent Skill for the AREX public API",
   "keywords": [
     "arex",
